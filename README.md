@@ -1,5 +1,10 @@
+
+# [Numbers](#Numbers)
+
+# [Networking](#Networking)
+
 ## Numbers
-- Fractional Arithmetic (Add/Subtract/Multiply/Divide Fractions)
+- [Fractional Arithmetic](/1Numbers/FractionalArithmetic) (Add/Subtract/Multiply/Divide Fractions)
 - Alarm Clock
 - Binary to Decimal and Back Converter
 - Calculator
