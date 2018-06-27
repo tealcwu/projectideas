@@ -1,5 +1,5 @@
 
-1. [Numbers](#Numbers)
+* [Numbers](#Numbers)
 
 **[Networking](#Networking)**
 
