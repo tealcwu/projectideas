@@ -1,7 +1,7 @@
 
-# [Numbers](#Numbers)
+1. [Numbers](#Numbers)
 
-# [Networking](#Networking)
+**[Networking](#Networking)**
 
 ## Numbers
 - [Fractional Arithmetic](/1Numbers/FractionalArithmetic) (Add/Subtract/Multiply/Divide Fractions)
